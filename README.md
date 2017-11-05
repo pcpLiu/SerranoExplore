@@ -1,2 +1,2 @@
 # SerranoExplore
-The Demo iOS App using Serrano library
+You can open any issues here related to [Serrano](https://github.com/pcpLiu/Serrano).
